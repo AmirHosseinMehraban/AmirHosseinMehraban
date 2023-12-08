@@ -37,6 +37,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AmirHosseinMehraban/AmirHosseinMehraban/output/snake.svg" alt="Snake animation" />
 
-###
